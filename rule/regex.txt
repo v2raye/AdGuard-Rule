@@ -1,4 +1,4 @@
-# Update time: 2024-06-05 20:15:18
+# Update time: 2024-06-06 08:37:16
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -78,9 +78,8 @@
 ||adsame.
 ||onetrust.
 <head>
-<body>
 <!doctype html>
-||apple.com-*.live^
+<body>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -116,6 +115,34 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||reachableads-av.*.amazonaws.com^
@@ -129,6 +156,7 @@
 ||production-adserver-*.amazonaws.com^
 ||iad-*.appboy.com^
 ||jtbo*.nqxvevk.cn^
+||events-*.op.hicloud.com^
 ||iad-*.braze.com^
 ||ms*.applvn.com^
 ||v*-ad.video.yximgs.com^
@@ -140,7 +168,6 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
 ||counter*.stat.ovh^
 ||host*.carl-ras.dk^
@@ -236,7 +263,6 @@ analytics-*.aasaam.com
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||host*.rigbyandpeller.com^
 ||tw*.netcore.co.in^
 ||mapi-log.qoo*.jp^
@@ -361,6 +387,7 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.dbankcloud.cn^
 ||f-log-*.grammarly.io^
 ||n*adserv.com^
+||apple.com-*.live^
 ||zbc6hy*.live^
 ||analytics*.clickdimensions.com^
 ||bi-eventtracker-*.amazonaws.com^
@@ -444,7 +471,6 @@ analytics-*.aasaam.com
 ||aj3*.bid^
 ||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
-||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||aff*.kolektiva.net^
 ||events*.cre.ma^
@@ -505,14 +531,16 @@ analytics-*.aasaam.com
 ||flurry.agentportal-*.yahoodns.net^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||spryptvqguhpwt^
+||rgfftupf.
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||centent.streamp1ay.
+||142.91.159.
+||fxhpaoxqyajvmdg.
+||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
