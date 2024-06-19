@@ -1,4 +1,4 @@
-# Update time: 2024-06-18 20:15:19
+# Update time: 2024-06-19 08:38:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,7 +55,6 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -77,10 +76,10 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
-<body>
+||onetrust.
 <head>
+<body>
 <!doctype html>
-||apple.com-*.live^
 <script>
             pageOptions
     xhr.send();
@@ -393,6 +392,7 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.dbankcloud.cn^
 ||f-log-*.grammarly.io^
 ||n*adserv.com^
+||apple.com-*.live^
 ||zbc6hy*.live^
 ||analytics*.clickdimensions.com^
 ||bi-eventtracker-*.amazonaws.com^
