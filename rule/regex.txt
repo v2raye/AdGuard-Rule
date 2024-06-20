@@ -1,4 +1,4 @@
-# Update time: 2024-06-19 20:15:01
+# Update time: 2024-06-20 08:37:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,7 +54,6 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
-||report.*.qq.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -76,11 +75,11 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
+||report.*.qq.com^
 ||onetrust.
 <head>
 <body>
 <!doctype html>
-||apple.com-*.live^
 <script>
             pageOptions
     xhr.send();
@@ -170,7 +169,6 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
 ||counter*.stat.ovh^
 ||host*.carl-ras.dk^
@@ -266,7 +264,6 @@ analytics-*.aasaam.com
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||host*.rigbyandpeller.com^
 ||tw*.netcore.co.in^
 ||mapi-log.qoo*.jp^
@@ -395,6 +392,7 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.dbankcloud.cn^
 ||f-log-*.grammarly.io^
 ||n*adserv.com^
+||apple.com-*.live^
 ||zbc6hy*.live^
 ||analytics*.clickdimensions.com^
 ||bi-eventtracker-*.amazonaws.com^
@@ -533,14 +531,16 @@ analytics-*.aasaam.com
 ||flurry.agentportal-*.yahoodns.net^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||spryptvqguhpwt^
+||rgfftupf.
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||centent.streamp1ay.
+||142.91.159.
+||fxhpaoxqyajvmdg.
+||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
