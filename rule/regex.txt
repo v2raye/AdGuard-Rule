@@ -1,4 +1,4 @@
-# Update time: 2024-06-23 08:41:12
+# Update time: 2024-06-23 20:14:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -80,34 +80,7 @@
 <head>
 <body>
 <!doctype html>
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
+||apple.com-*.live^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -143,6 +116,34 @@ body {
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||reachableads-av.*.amazonaws.com^
@@ -170,13 +171,12 @@ analytics-*.aasaam.com
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||adservice.google.
-||counter*.stat.ovh^
 ||host*.carl-ras.dk^
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
 ||prebid-*.rubiconproject.com^
+||faro-collector-prod-*.grafana.net^
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||partner.superbahisaffiliates*.com^
@@ -217,6 +217,7 @@ analytics-*.aasaam.com
 ||ad*.tmgrup.com.tr^
 ||goodadvert.
 ||rtlog*.tiktokv.com^
+||flurry.agentportal.*.yahoodns.net^
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
 ||rb*.design.ru^
@@ -265,6 +266,7 @@ analytics-*.aasaam.com
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
+||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||tw*.netcore.co.in^
 ||mapi-log.qoo*.jp^
@@ -332,6 +334,7 @@ analytics-*.aasaam.com
 ||hstats*.hepsiburada.com^
 ||geoloc*.geo20120530.com^
 ||cnt.proporn.
+||fp-*it*.fengkongcloud.com^
 ||teasernet.
 ||popuptraf.
 ||host*.rvshare.com^
@@ -375,7 +378,6 @@ analytics-*.aasaam.com
 ||ads*.dfiles.ru^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||log*-applog-*.tiktokv.com^
-||faro-collector-prod-*.grafana.net^
 ||analytics-rollout-*.amazonaws.com^
 ||api-*.hismarttv.com^
 ||datacollect*.abtasty.com^
@@ -393,7 +395,6 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.dbankcloud.cn^
 ||f-log-*.grammarly.io^
 ||n*adserv.com^
-||apple.com-*.live^
 ||zbc6hy*.live^
 ||analytics*.clickdimensions.com^
 ||bi-eventtracker-*.amazonaws.com^
@@ -438,7 +439,6 @@ analytics-*.aasaam.com
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||ac*.faxingchina.com^
-||flurry.agentportal.*.yahoodns.net^
 ||ads.*.kugou.com^
 ||api-*.bidmachine.io^
 ||analyzer*.fc2.com^
@@ -470,7 +470,6 @@ analytics-*.aasaam.com
 ||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
-||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
 ||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
@@ -529,7 +528,6 @@ analytics-*.aasaam.com
 ||gads*z.com^
 ||tracker*.qcloud.com^
 ||collector*.ex.co^
-||flurry.agentportal-*.yahoodns.net^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
@@ -539,7 +537,9 @@ rgmechanicsgames.com*VPN.exe
 ||rgfftupf.
 @@||cdn*.porn300.com^
 ||gamenguide.com*adbk
+||counter*.stat.ovh^
 ||centent.streamp1ay.
+||ads.livetv*.me^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
 ||spryptvqguhpwt^
